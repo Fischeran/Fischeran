@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fischeran
 - 👀 I’m interested in Becoming a front end developer
-- 🌱 I’m currently learning html, css, and Java
+- 🌱 I’m currently learning html, css, and Javascript
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me alnfischer@gmail.com
 
