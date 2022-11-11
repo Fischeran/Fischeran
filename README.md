@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Fischeran
-- 👀 I’m interested in Becoming a front end developer
-- 🌱 I’m currently learning html, css, and Javascript
+- 🌱 JavaScript developer using jQuery/React/Node.js/PostgreSQL.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me alnfischer@gmail.com
 
